@@ -19,3 +19,6 @@ second : use dist_measure.py to callculate the distance of the object from any g
   P = Pixels covered
   D = Actual Distance
   W = Width of the object
+
+
+[![SC2 Video](doc/SC2_youtube.gif)](https://www.youtube.com/watch?v=--b-9HrKK6w)

@@ -20,5 +20,4 @@ second : use dist_measure.py to callculate the distance of the object from any g
   D = Actual Distance
   W = Width of the object
 
-
-[![Demo](doc/SC2_youtube.PNG)](https://www.youtube.com/watch?v=NcJRb40dYc4 "Demo Video - Click to Watch!")
+[![Demo](demo.gif)](https://www.youtube.com/watch?v=--b-9HrKK6w)

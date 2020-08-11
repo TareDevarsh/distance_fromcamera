@@ -3,9 +3,9 @@
 
 Code uses Basic formula to calculate the distance of a known object from the camera
 
-first : use get_colour.py to adjus for the colour you need.
+Step 1 : use get_colour.py to adjus for the colour you need.
 
-second : use dist_measure.py to callculate the distance of the object from any given length
+Step 2 : use dist_measure.py to callculate the distance of the object from any given length
 
   Pixels covered by the object will print out on the terminal
   
